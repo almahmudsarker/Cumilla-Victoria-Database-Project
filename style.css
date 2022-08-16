@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.form-body{
+    /* background-image: url(images/Morder\ psyc.png); */
+    border-radius:0%;
+    height:auto;
+}
+.row{
+    background: white;
+    border-radius: 10px;
+    
+}
+img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+ 
+}
+.padding-left{
+   margin-left: 400px;
+}
+
+/* .form{
+    height:500px;
+} */
+
